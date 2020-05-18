@@ -1,7 +1,7 @@
 # Azure RTOS - Additional samples
 
 This repository is used to distribute IDE- and board-specific ZIP files
-that you can use as an alternative to the content in the [getting-started
+that you can use in addition to the content in the [getting-started
 repository](https://github.com/azure-rtos/getting-started).
 
 The following ZIP files can be downloaded from the Release associated with
