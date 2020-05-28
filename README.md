@@ -19,3 +19,9 @@ this repository:
 NOTE: These zip files are completely self-contained and include appropriate
 code from the other Azure RTOS repositories. Please refer to the LICENSE.txt file
 in each ZIP file for licensing requirements.
+
+### Azure RTOS with Azure Sphere sample
+
+https://github.com/Azure-Samples/Azure-RTOS-on-Azure-Sphere-Mediatek-MT3620
+
+This sample demonstrates how Azure Sphere and Azure RTOS are able to run together on the MediaTek MT3620 Development Kit.
