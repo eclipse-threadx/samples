@@ -6,7 +6,7 @@ repository](https://github.com/azure-rtos/getting-started).
 
 The following ZIP files can be downloaded from the [release](https://github.com/azure-rtos/samples/releases) associated with this repository or the direct links:
 
-* [Azure_RTOS_6.0,1_MIMXRT1060_IAR_Samples_2020_07_29.zip](https://github.com/azure-rtos/samples/releases/download/v6.0.1_rel/Azure_RTOS_6.0,1_MIMXRT1060_IAR_Samples_2020_07_29.zip)
+* [Azure_RTOS_6.0.1_MIMXRT1060_IAR_Samples_2020_07_29.zip](https://github.com/azure-rtos/samples/releases/download/v6.0.1_rel/Azure_RTOS_6.0.1_MIMXRT1060_IAR_Samples_2020_07_29.zip)
 * [Azure_RTOS_6.0_ATSAME54-XPRO_MPLab_Samples_2020_05_17.zip](https://github.com/azure-rtos/samples/releases/download/v6.0_rel/Azure_RTOS_6.0_ATSAME54-XPRO_MPLab_Samples_2020_05_17.zip)
 * [Azure_RTOS_6.0_MIMXRT1060_IAR_Samples_2020_05_17.zip](https://github.com/azure-rtos/samples/releases/download/v6.0_rel/Azure_RTOS_6.0_MIMXRT1060_IAR_Samples_2020_05_17.zip)
 * [Azure_RTOS_6.0_MIMXRT1060_MCUXpresso_Samples_2020_05_17.zip](https://github.com/azure-rtos/samples/releases/download/v6.0_rel/Azure_RTOS_6.0_MIMXRT1060_MCUXpresso_Samples_2020_05_17.zip)
