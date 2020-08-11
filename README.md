@@ -12,8 +12,8 @@ The following ZIP files can be downloaded from the [release](https://github.com/
 * [Azure_RTOS_6.0.1_MIMXRT1060_MCUXpresso_Samples_2020_07_29.zip](https://github.com/azure-rtos/samples/releases/download/v6.0.1_rel/Azure_RTOS_6.0.1_MIMXRT1060_MCUXpresso_Samples_2020_07_29.zip)
 * [Azure_RTOS_6.0.1_STM32F746G-DISCO_IAR_Samples_2020_07_29.zip](https://github.com/azure-rtos/samples/releases/download/v6.0.1_rel/Azure_RTOS_6.0.1_STM32F746G-DISCO_IAR_Samples_2020_07_29.zip)
 * [Azure_RTOS_6.0.1_STM32F746G-DISCO_STM32CubeIDE_Samples_2020_07_29.zip](https://github.com/azure-rtos/samples/releases/download/v6.0.1_rel/Azure_RTOS_6.0.1_STM32F746G-DISCO_STM32CubeIDE_Samples_2020_07_29.zip)
-* [Azure_RTOS_6.0.1_STM32L475-DISCO_IAR_Samples_2020_07_29.zip](https://github.com/azure-rtos/samples/releases/download/v6.0.1_rel/Azure_RTOS_6.0.1_STM32L475-DISCO_IAR_Samples_2020_07_29.zip)
-* [Azure_RTOS_6.0.1_STM32L475-DISCO_STM32CubeIDE_Samples_2020_07_29.zip](https://github.com/azure-rtos/samples/releases/download/v6.0.1_rel/Azure_RTOS_6.0.1_STM32L475-DISCO_STM32CubeIDE_Samples_2020_07_29.zip)
+* [Azure_RTOS_6.0_STM32L4+-DISCO_IAR_Samples_2020_08_10.zip](https://github.com/azure-rtos/samples/releases/download/v6.0.1_rel/Azure_RTOS_6.0_STM32L4+-DISCO_IAR_Samples_2020_08_10.zip)
+* [Azure_RTOS_6.0_STM32L4+-DISCO_STM32CubeIDE_Samples_2020_08_10.zip](https://github.com/azure-rtos/samples/releases/download/v6.0.1_rel/Azure_RTOS_6.0_STM32L4+-DISCO_STM32CubeIDE_Samples_2020_08_10.zip)
 
 NOTE: These zip files are completely self-contained and include appropriate
 code from the other Azure RTOS repositories. Please refer to the LICENSE.txt file
