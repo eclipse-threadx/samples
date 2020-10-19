@@ -34,7 +34,7 @@ The [MXChip AZ3166 IoT DevKit](https://aka.ms/iot-devkit) is currently supported
 
 ## MS Learn and book samples
 
-[MS Learn](https://#) and [book]((https://#)) samples can be built and run on Windows using Visual Studio.
+[MS Learn](https://#) and [book](https://#) samples can be built and run on Windows using Visual Studio.
 
 * [Azure_RTOS_6.1_Win32_Samples_2020_10_18.zip](https://github.com/azure-rtos/samples/releases/download/v6.1_rel/Azure_RTOS_6.1_Win32_Samples_2020_10_18.zip)
 
