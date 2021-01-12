@@ -27,6 +27,11 @@ The following ZIP files can be downloaded from the [release](https://github.com/
 * [Azure_RTOS_6.1_STM32L4+-DISCO_STM32CubeIDE_Samples_2020_10_10.zip
 ](https://github.com/azure-rtos/samples/releases/download/v6.1_rel/Azure_RTOS_6.1_STM32L4+-DISCO_STM32CubeIDE_Samples_2020_10_10.zip)
 * [Azure_RTOS_6.1_Renesas_RZA1_RSK_IAR_Samples_2020_12_09.zip](https://github.com/azure-rtos/samples/releases/download/v6.1_rel/Azure_RTOS_6.1_Renesas_RZA1_RSK_IAR_Samples_2020_12_09.zip)
+* [Azure_RTOS_6.1_Renesas_RZA1_RSK_E2Studio_2021_01_08.zip](https://github.com/azure-rtos/samples/releases/download/v6.1_rel/Azure_RTOS_6.1_Renesas_RZA1_RSK_E2Studio_2021_01_08.zip)
+* [Azure_RTOS_6.1_Renesas_RX65N_RSK_2MB_e2studio_ccrx_Sample_2021_01_08.zip](https://github.com/azure-rtos/samples/releases/download/v6.1_rel/Azure_RTOS_6.1_Renesas_RX65N_RSK_2MB_e2studio_ccrx_Sample_2021_01_08.zip)
+* [Azure_RTOS_6.1_Renesas_RX65N_RSK_2MB_e2studio_gnurx_Sample_2021_01_08.zip](https://github.com/azure-rtos/samples/releases/download/v6.1_rel/Azure_RTOS_6.1_Renesas_RX65N_RSK_2MB_e2studio_gnurx_Sample_2021_01_08.zip)
+* [Azure_RTOS_6.1_Renesas_RX65N_RSK_2MB_IAR_Sample_2021_01_08.zip](https://github.com/azure-rtos/samples/releases/download/v6.1_rel/Azure_RTOS_6.1_Renesas_RX65N_RSK_2MB_IAR_Sample_2021_01_08.zip)
+
 > NOTE: These zip files are completely self-contained and include appropriate code from the other Azure RTOS repositories. Please refer to the LICENSE.txt file in each ZIP file for licensing requirements.
 
 The [MXChip AZ3166 IoT DevKit](https://aka.ms/iot-devkit) is currently supported by the [getting-started](https://github.com/azure-rtos/getting-started/tree/master/MXChip/AZ3166) guide. And you can also download the whole CMake project as ZIP file from:
