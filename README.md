@@ -41,7 +41,7 @@ The [MXChip AZ3166 IoT DevKit](https://aka.ms/iot-devkit) is currently supported
 
 ## Azure RTOS with Azure Sphere samples
 
-The Azuure RTOS and Azure Sphere better together sample can be found at:
+The Azure RTOS and Azure Sphere better together sample can be found at:
 
 https://github.com/Azure-Samples/Azure-RTOS-on-Azure-Sphere-Mediatek-MT3620
 
