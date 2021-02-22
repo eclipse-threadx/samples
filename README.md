@@ -34,10 +34,7 @@ The following ZIP files can be downloaded from the [release](https://github.com/
 
 > NOTE: These zip files are completely self-contained and include appropriate code from the other Azure RTOS repositories. Please refer to the LICENSE.txt file in each ZIP file for licensing requirements.
 
-The [MXChip AZ3166 IoT DevKit](https://aka.ms/iot-devkit) is currently supported by the [getting-started](https://github.com/azure-rtos/getting-started/tree/master/MXChip/AZ3166) guide. And you can also download the whole CMake project as ZIP file from:
-
-* [Getting_started_with_the_MXChip_AZ3166_IoT_DevKit.zip
-](https://github.com/azure-rtos/getting-started/releases/download/183899/Getting_started_with_the_MXChip_AZ3166_IoT_DevKit.zip)
+The [MXChip AZ3166 IoT DevKit](https://aka.ms/iot-devkit) is currently supported by the [getting-started](https://github.com/azure-rtos/getting-started/tree/master/MXChip/AZ3166) guide.
 
 ## Azure RTOS with Azure Sphere samples
 
