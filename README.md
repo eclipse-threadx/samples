@@ -18,6 +18,8 @@ The following ZIP files can be downloaded from the [release](https://github.com/
     ](https://github.com/azure-rtos/samples/releases/download/rel_6.1_adu_beta/Azure_RTOS_6.1_ADU_ATSAME54-XPRO_MPLab_Sample_2021_03_02.zip)
 -   [Azure_RTOS_6.1_ADU_MIMXRT1060_IAR_Sample_2021_03_02.zip
     ](https://github.com/azure-rtos/samples/releases/download/rel_6.1_adu_beta/Azure_RTOS_6.1_ADU_MIMXRT1060_IAR_Sample_2021_03_02.zip)
+-   [Azure_RTOS_6.1_ADU_MIMXRT1060_MCUXpresso_Sample_2021_03_02.zip
+    ](https://github.com/azure-rtos/samples/releases/download/rel_6.1_adu_beta/Azure_RTOS_6.1_ADU_MIMXRT1060_MCUXpresso_Sample_2021_03_02.zip)
 -   [Azure_RTOS_6.1_ADU_STM32L4+-DISCO_IAR_Sample_2021_03_02.zip
     ](https://github.com/azure-rtos/samples/releases/download/rel_6.1_adu_beta/Azure_RTOS_6.1_ADU_STM32L4+-DISCO_IAR_Sample_2021_03_02.zip)
 -   [Azure_RTOS_6.1_ADU_STM32L4+-DISCO_STM32CubeIDE_Sample_2021_03_02.zip
