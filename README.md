@@ -26,7 +26,7 @@ The following ZIP files can be downloaded from the [release](https://github.com/
     ](https://github.com/azure-rtos/samples/releases/download/v6.1_rel/Azure_RTOS_6.1_STM32L4+-DISCO_IAR_Samples_2020_10_10.zip)
 -   [Azure_RTOS_6.1_STM32L4+-DISCO_STM32CubeIDE_Samples_2020_10_10.zip
     ](https://github.com/azure-rtos/samples/releases/download/v6.1_rel/Azure_RTOS_6.1_STM32L4+-DISCO_STM32CubeIDE_Samples_2020_10_10.zip)
--   [Azure_RTOS_6.1_Renesas_RZA1_RSK_IAR_Samples_2021_04_16.zip](https://github.com/azure-rtos/samples/releases/download/v6.1_rel/Azure_RTOS_6.1_Renesas_RZA1_RSK_IAR_Samples_2021_04_16.zip)
+-   [Azure_RTOS_6.1_Renesas_RZA1_RSK_IAR_Samples_2021_04_28.zip](https://github.com/azure-rtos/samples/releases/download/v6.1_rel/Azure_RTOS_6.1_Renesas_RZA1_RSK_IAR_Samples_2021_04_28.zip)
 -   [Azure_RTOS_6.1_Renesas_RZA1_RSK_E2Studio_2021_01_08.zip](https://github.com/azure-rtos/samples/releases/download/v6.1_rel/Azure_RTOS_6.1_Renesas_RZA1_RSK_E2Studio_2021_01_08.zip)
 -   [Azure_RTOS_6.1_Renesas_RX65N_RSK_2MB_e2studio_ccrx_Sample_2021_01_08.zip](https://github.com/azure-rtos/samples/releases/download/v6.1_rel/Azure_RTOS_6.1_Renesas_RX65N_RSK_2MB_e2studio_ccrx_Sample_2021_01_08.zip)
 -   [Azure_RTOS_6.1_Renesas_RX65N_RSK_2MB_e2studio_gnurx_Sample_2021_01_08.zip](https://github.com/azure-rtos/samples/releases/download/v6.1_rel/Azure_RTOS_6.1_Renesas_RX65N_RSK_2MB_e2studio_gnurx_Sample_2021_01_08.zip)
