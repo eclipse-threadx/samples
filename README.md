@@ -40,7 +40,7 @@ The [MXChip AZ3166 IoT DevKit](https://aka.ms/iot-devkit) is currently supported
 
 ## MS Learn and book samples
 
-Samples for [MS Learn ThreadX course](https://#) and [Real-Time Embedded Multithreading With ThreadX <sup>3rd edition</sup>](https://www.amazon.in/Real-time-Embedded-Multithreading-Using-Threadx/dp/1523730420) can be built and run on Windows using Visual Studio.
+Samples for MS Learn ThreadX course and [Real-Time Embedded Multithreading With ThreadX <sup>3rd edition</sup>](https://www.amazon.in/Real-time-Embedded-Multithreading-Using-Threadx/dp/1523730420) can be built and run on Windows using Visual Studio.
 
 -   [Azure_RTOS_6.1_Win32_Samples_2020_10_18.zip](https://github.com/azure-rtos/samples/releases/download/v6.1_rel/Azure_RTOS_6.1_Win32_Samples_2020_10_18.zip)
 
