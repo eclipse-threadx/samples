@@ -37,6 +37,8 @@ The following ZIP files can be downloaded from the [release](https://github.com/
 -   [Azure_RTOS_6.1_RX65N_Cloud_Kit_E2Studio_CCRX_Samples_2021_03_18.zip](https://github.com/azure-rtos/samples/releases/download/v6.1_rel/Azure_RTOS_6.1_RX65N_Cloud_Kit_E2Studio_CCRX_Samples_2021_03_18.zip)
 -   [Azure_RTOS_6.1_RX65N_Cloud_Kit_E2Studio_GNURX_Samples_2021_03_18.zip](https://github.com/azure-rtos/samples/releases/download/v6.1_rel/Azure_RTOS_6.1_RX65N_Cloud_Kit_E2Studio_GNURX_Samples_2021_03_18.zip)
 -   [Azure_RTOS_6.1_RX65N_Cloud_Kit_IAR_Samples_2021_04_05.zip](https://github.com/azure-rtos/samples/releases/download/rel_6.1_pnp_beta/Azure_RTOS_6.1_RX65N_Cloud_Kit_IAR_Samples_2021_04_05.zip)
+-   [Azure_RTOS_6.1_RSK_RX66T_E2Studio_CCRX_Samples_2021_09_07.zip](https://github.com/azure-rtos/samples/releases/download/v6.1_rel/Azure_RTOS_6.1_RSK_RX66T_E2Studio_CCRX_Samples_2021_09_07.zip)
+-   [Azure_RTOS_6.1_RSK_RX66T_E2Studio_GNURX_Samples_2021_09_07.zip](https://github.com/azure-rtos/samples/releases/download/v6.1_rel/Azure_RTOS_6.1_RSK_RX66T_E2Studio_GNURX_Samples_2021_09_07.zip)
 -   [Azure_RTOS_6.1_Renesas_RX671_RSK_e2studio_ccrx_Sample_2021_08_16.zip](https://github.com/azure-rtos/samples/releases/download/v6.1_rel/Azure_RTOS_6.1_Renesas_RX671_RSK_e2studio_ccrx_Sample_2021_08_16.zip)
 -   [Azure_RTOS_6.1_RX72N_Envision_Kit_Ethernet_IAR_Samples_2021_08_18.zip](https://github.com/azure-rtos/samples/releases/download/v6.1_rel/Azure_RTOS_6.1_RX72N_Envision_Kit_Ethernet_IAR_Samples_2021_08_18.zip)
 -   [Azure_RTOS_6.1_RX72N_Envision_Kit_Ethernet_e2studio_gnurx_Samples_2021_08_18.zip](https://github.com/azure-rtos/samples/releases/download/v6.1_rel/Azure_RTOS_6.1_RX72N_Envision_Kit_Ethernet_e2studio_gnurx_Samples_2021_08_18.zip)
