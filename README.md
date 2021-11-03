@@ -2,8 +2,6 @@
 
 This repository hosts additional samples for Azure RTOS.
 
-Additional Azure IoT SDK Plug and Play API support can be found on the [feature/iot_pnp](https://github.com/azure-rtos/netxduo/tree/feature/iot_pnp) branch.
-
 ## Embedded IDE samples
 
 You can find Embedded IDE (IAR Workbench and semi's IDE) sample projects in addition to the content in the [getting-started repository](https://github.com/azure-rtos/getting-started). Each board-specific sample project contains a series of projects that cover Azure RTOS components (ThreadX, NetX Duo, GUIX, FileX and USBX) as well as connecting to Azure IoT samples using Azure IoT Middleware for Azure RTOS depending on the actual capability of the board.
