@@ -29,7 +29,9 @@ The [MXChip AZ3166 IoT DevKit](https://aka.ms/iot-devkit) is currently supported
 
 ## Microsoft Learning samples
 
-Samples for Microsoft Learning courses can be built and run on GitHub Codespaces or Windows using Visual Studio: [Azure-Samples/azure-rtos-learn-samples](https://github.com/Azure-Samples/azure-rtos-learn-samples)
+Samples for Microsoft Learning courses can be built and run on GitHub Codespaces or Windows using Visual Studio:
+
+https://github.com/Azure-Samples/azure-rtos-learn-samples
 
 ## Azure RTOS with Azure Sphere samples
 
