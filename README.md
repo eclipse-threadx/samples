@@ -27,11 +27,9 @@ The following ZIP files can be downloaded from the [release](https://github.com/
 
 The [MXChip AZ3166 IoT DevKit](https://aka.ms/iot-devkit) is currently supported by the [getting-started](https://github.com/azure-rtos/getting-started/tree/master/MXChip/AZ3166) guide.
 
-## MS Learn samples
+## Microsoft Learning samples
 
-Samples for MS Learn ThreadX course can be built and run on Windows using Visual Studio.
-
--   [Azure_RTOS_6.1_Win32_Samples_2022_02_20.zip](https://github.com/azure-rtos/samples/releases/download/v6.1_rel/Azure_RTOS_6.1_Win32_Samples_2022_02_20.zip)
+Samples for Microsoft Learning courses can be built and run on GitHub Codespaces or Windows using Visual Studio: [Azure-Samples/azure-rtos-learn-samples](https://github.com/Azure-Samples/azure-rtos-learn-samples)
 
 ## Azure RTOS with Azure Sphere samples
 
