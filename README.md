@@ -1,5 +1,7 @@
 # Azure RTOS - Additional samples
 
+> NOTE: [Device Update for IoT Hub](https://docs.microsoft.com/azure/iot-hub-device-update/) just released public preview fresh, Azure RTOS support has been updated at: https://aka.ms/azrtos-device-update-docs. The sample projects here will be updated soon.
+
 This repository hosts additional samples for Azure RTOS.
 
 For this branch, it contains samples for [Device Update for IoT Hub](https://docs.microsoft.com/azure/iot-hub-device-update/understand-device-update) (public preview). For all other samples you can go to the [main](https://github.com/azure-rtos/samples) branch.
