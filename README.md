@@ -31,7 +31,7 @@ The [MXChip AZ3166 IoT DevKit](https://aka.ms/iot-devkit) is currently supported
 
 Samples for MS Learn ThreadX course can be built and run on Windows using Visual Studio.
 
--   [Azure_RTOS_6.1_Win32_Samples_2020_10_18.zip](https://github.com/azure-rtos/samples/releases/download/v6.1_rel/Azure_RTOS_6.1_Win32_Samples_2020_10_18.zip)
+-   [Azure_RTOS_6.1_Win32_Samples_2022_02_20.zip](https://github.com/azure-rtos/samples/releases/download/v6.1_rel/Azure_RTOS_6.1_Win32_Samples_2022_02_20.zip)
 
 ## Azure RTOS with Azure Sphere samples
 
