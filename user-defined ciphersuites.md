@@ -2,7 +2,7 @@
 
 ## Introduction
 
-[Azure RTOS NetX Crypto](https://learn.microsoft.com/en-us/azure/rtos/netx/netx-crypto/chapter1) is the default crypto ciphersuite used by [Azure RTOS NetX Secure](https://learn.microsoft.com/en-us/azure/rtos/netx-duo/netx-secure-tls/chapter1) TLS stack. If clients want to use different crypto algorithm implementation, such as hardware security engine, TF-M PSA, or PKCS#11 based crypto methods, this user guide will show how to implement user-defined crypto ciphersuite and utilize it for Azure RTOS NetX Secure TLS stack.
+[Azure RTOS NetX Crypto](https://learn.microsoft.com/en-us/azure/rtos/netx/netx-crypto/chapter1) is the default crypto ciphersuite used by [Azure RTOS NetX Secure](https://learn.microsoft.com/en-us/azure/rtos/netx-duo/netx-secure-tls/chapter1) TLS stack. If clients want to use different crypto algorithm implementation, such as hardware security engine, TF-M PSA, or PKCS#11 based crypto methods, this user guide will show how to implement user-defined crypto ciphersuite and integrate it with Azure RTOS NetX Secure TLS stack.
 
 ## General Process
 
@@ -18,7 +18,7 @@ There are four steps to implement and utilize a user-defined crypto ciphersuite.
 
 ## Example
 
-[The STMicroelectronics B-U585I-IOT02A sample project](https://github.com/azure-rtos/samples/releases/download/v6.1_rel/Azure_RTOS_6.1_B-U585I-IOT02A_IAR_Samples_Beta_2021_10_01.zip) implements TFM-PSA based ECDSA crypto ciphersuite for TLS device authentication. We will use it an an example to demonstrate the above process. 
+[The STMicroelectronics B-U585I-IOT02A sample project](https://github.com/azure-rtos/samples/releases/download/v6.1_rel/Azure_RTOS_6.1_B-U585I-IOT02A_IAR_Samples_Beta_2021_10_01.zip) implements [TF-M PSA](https://www.trustedfirmware.org/projects/tf-m/) based ECDSA crypto ciphersuite for TLS device authentication. We will use it an an example to demonstrate the above process.
 
 <p>
 All the changed files are under the path <em>B-U585I-IOT02A\Projects\B-U585I-IOT02A\Applications\TFM\TFM_Appli\NonSecure\Projects\B-U585I-IOT02A\Applications\TFM\TFM_Appli\NonSecure</em>.
@@ -44,11 +44,11 @@ NX_CRYPTO_METHOD crypto_method_ecdsa_psa_crypto =
 2. In <em>psa_crypto_ciphersuites/nx_crypto_ecdsa_psa_crypto.c</em>, define initialization, cleanup and crypto operations for this crypto method.
 - `_nx_crypto_method_ecdsa_psa_crypto_init()` for parameter check and metadata initialization;
 - `_nx_crypto_method_ecdsa_psa_crypto_cleanup()` for metadata clean up;
-- `_nx_crypto_method_ecdsa_psa_crypto_operation()` to perform ECDSA operations, including ECDSA signature, verify, EC curve setting.
+- `_nx_crypto_method_ecdsa_psa_crypto_operation()` to perform ECDSA operations, including ECDSA signature, verify, EC curve setting, with [PSA crypto APIs](https://armmbed.github.io/mbed-crypto/html/index.html).
 
 3. In <em>psa_crypto_ciphersuites/nx_crypto_ecdsa_psa_crypto.h</em>, define a struct 'NX_CRYPTO_ECDSA_PSA_CRYPTO' to save metadata used by crypto functions, such as scrtch buffer, psa key handle, etc.
 
-4. In <em>Src/nx_azure_iot_ciphersuites.c</em>, add this new defined NX_CRYPTO_METHOD `crypto_method_ecdsa_psa_crypto` into `_nx_azure_iot_tls_supported_crypto[]`.
+4. In <em>Src/nx_azure_iot_ciphersuites.c</em>, add this new defined NX_CRYPTO_METHOD <b>`crypto_method_ecdsa_psa_crypto`</b> into `_nx_azure_iot_tls_supported_crypto[]`.
 
 <pre>
 const NX_CRYPTO_METHOD *_nx_azure_iot_tls_supported_crypto[] =

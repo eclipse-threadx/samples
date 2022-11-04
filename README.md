@@ -43,5 +43,5 @@ This sample demonstrates how Azure Sphere and Azure RTOS are able to run togethe
 
 ## User-defined Crypto Ciphersuites
 
-This [guide](./user-defined%20ciphersuites.md) demonstrates how to implement user-defined crypto ciphersuites used by Azure RTOS NetX Secure TLS stack.
+This [guide](./user-defined%20ciphersuites.md) demonstrates how to implement user-defined crypto ciphersuites and integrate it with Azure RTOS NetX Secure TLS stack.
 
