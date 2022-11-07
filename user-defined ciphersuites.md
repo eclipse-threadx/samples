@@ -1,8 +1,8 @@
-# User-defined Crypto Ciphersuites Used by Azure RTOS NetX Secure
+# User-defined Crypto Ciphersuites Used by Azure IoT Sample
 
 ## Introduction
 
-[Azure RTOS NetX Crypto](https://learn.microsoft.com/en-us/azure/rtos/netx/netx-crypto/chapter1) is the default crypto ciphersuite used by [Azure RTOS NetX Secure](https://learn.microsoft.com/en-us/azure/rtos/netx-duo/netx-secure-tls/chapter1) TLS stack. If clients want to use different crypto algorithm implementation, such as hardware security engine, TF-M PSA, or PKCS#11 based crypto methods, this user guide will show how to implement user-defined crypto ciphersuite and integrate it with Azure RTOS NetX Secure TLS stack.
+[Azure RTOS NetX Crypto](https://learn.microsoft.com/en-us/azure/rtos/netx/netx-crypto/chapter1) is the default crypto ciphersuite used by [Azure RTOS NetX Secure](https://learn.microsoft.com/en-us/azure/rtos/netx-duo/netx-secure-tls/chapter1) TLS stack in [Azure IoT Sample](https://github.com/azure-rtos/samples). If clients want to use different crypto algorithm implementation, such as hardware security engine, TF-M PSA, or PKCS#11 based crypto methods, this user guide will show how to implement user-defined crypto ciphersuite and integrate it with Azure IoT Sample.
 
 ## General Process
 
@@ -72,4 +72,4 @@ const NX_CRYPTO_METHOD *_nx_azure_iot_tls_supported_crypto[] =
 };
 </pre>
 
-With these changes, the user-defined PSA based ECDSA crypto method will be used by NX secure TLS stack.
+With these changes, the user-defined PSA based ECDSA crypto method will be used by NX secure TLS stack in Azure IoT Sample.
