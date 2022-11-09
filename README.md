@@ -40,3 +40,8 @@ The Azure RTOS and Azure Sphere better together sample can be found at:
 https://github.com/Azure-Samples/Azure-RTOS-on-Azure-Sphere-Mediatek-MT3620
 
 This sample demonstrates how Azure Sphere and Azure RTOS are able to run together on the MediaTek MT3620 Development Kit.
+
+## User-defined Crypto Ciphersuite
+
+This [guide](./user-defined-ciphersuite.md) demonstrates how to implement user-defined crypto ciphersuite and integrate it with Azure IoT Sample.
+
