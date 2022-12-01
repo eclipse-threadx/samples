@@ -1,6 +1,6 @@
 # Azure RTOS - Additional samples
 
-This repository hosts additional samples for Azure RTOS.
+This repository hosts additional samples for Azure RTOS v6.1.9.
 
 ## Embedded IDE samples
 
