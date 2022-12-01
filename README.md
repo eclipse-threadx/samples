@@ -1,6 +1,6 @@
 # Azure RTOS - Additional samples
 
-This repository hosts additional samples for Azure RTOS v6.2.0. For samples based previous releases, you can find them in the [v6.1 branch](https://github.com/azure-rtos/samples/tree/v6.1).
+This repository hosts additional samples for Azure RTOS v6.2.0. For samples based on previous releases, you can find them in the [v6.1 branch](https://github.com/azure-rtos/samples/tree/v6.1).
 
 ## Embedded IDE samples
 
