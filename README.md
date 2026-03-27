@@ -1,3 +1,7 @@
+# This repository has been archived
+
+# Look at SampleX instead.
+
 # Eclipse ThreadX - Additional samples
 
 This repository hosts additional samples for Eclipse ThreadX v6.2.0. For samples based on previous releases, you can find them in the [v6.1 branch](https://github.com/eclipse-threadx/samples/tree/v6.1).
